@@ -1,0 +1,441 @@
+season,Round_Num,RaceName,Date,Location,CircuitName,Position,driver_number,driver_name,Constructor,Points
+2023,1,Bahrain Grand Prix,3/5/2023,Sakhir Bahrain,Bahrain International Circuit,1,1,Max VERSTAPPEN,Red Bull,25
+2023,1,Bahrain Grand Prix,3/5/2023,Sakhir Bahrain,Bahrain International Circuit,2, ,Sergio PEREZ,Red Bull,18
+2023,1,Bahrain Grand Prix,3/5/2023,Sakhir Bahrain,Bahrain International Circuit,3,14,Fernando ALONSO,Aston Martin,15
+2023,1,Bahrain Grand Prix,3/5/2023,Sakhir Bahrain,Bahrain International Circuit,4,55,Carlos SAINZ,Ferrari,12
+2023,1,Bahrain Grand Prix,3/5/2023,Sakhir Bahrain,Bahrain International Circuit,5,2,Lewis HAMILTON,Mercedes,10
+2023,1,Bahrain Grand Prix,3/5/2023,Sakhir Bahrain,Bahrain International Circuit,6,18,Lance STROLL,Aston Martin,8
+2023,1,Bahrain Grand Prix,3/5/2023,Sakhir Bahrain,Bahrain International Circuit,7,63,George RUSSELL,Mercedes,6
+2023,1,Bahrain Grand Prix,3/5/2023,Sakhir Bahrain,Bahrain International Circuit,8,,Bottas,Alfa Romeo,4
+2023,1,Bahrain Grand Prix,3/5/2023,Sakhir Bahrain,Bahrain International Circuit,9,10,Pierre GASLY,Alpine F1 Team,2
+2023,1,Bahrain Grand Prix,3/5/2023,Sakhir Bahrain,Bahrain International Circuit,10,23,Alexander ALBON,Williams,1
+2023,1,Bahrain Grand Prix,3/5/2023,Sakhir Bahrain,Bahrain International Circuit,11,22,Yuki TSUNODA,AlphaTauri,0
+2023,1,Bahrain Grand Prix,3/5/2023,Sakhir Bahrain,Bahrain International Circuit,12,2,Logan SARGEANT,Williams,0
+2023,1,Bahrain Grand Prix,3/5/2023,Sakhir Bahrain,Bahrain International Circuit,13,20,Kevin MAGNUSSEN,Haas F1 Team,0
+2023,1,Bahrain Grand Prix,3/5/2023,Sakhir Bahrain,Bahrain International Circuit,14,21,Nyck DE VRIES,AlphaTauri,0
+2023,1,Bahrain Grand Prix,3/5/2023,Sakhir Bahrain,Bahrain International Circuit,15,27,Nico HULKENBERG,Haas F1 Team,0
+2023,1,Bahrain Grand Prix,3/5/2023,Sakhir Bahrain,Bahrain International Circuit,16,24,ZHOU Guanyu,Alfa Romeo,0
+2023,1,Bahrain Grand Prix,3/5/2023,Sakhir Bahrain,Bahrain International Circuit,17,4,Lando NORRIS,McLaren,0
+2023,1,Bahrain Grand Prix,3/5/2023,Sakhir Bahrain,Bahrain International Circuit,R,,Ocon,Alpine F1 Team,0
+2023,1,Bahrain Grand Prix,3/5/2023,Sakhir Bahrain,Bahrain International Circuit,R,16,Charles LECLERC,Ferrari,0
+2023,1,Bahrain Grand Prix,3/5/2023,Sakhir Bahrain,Bahrain International Circuit,R,81,Oscar PIASTRI,McLaren,0
+2023,2,Saudi Arabian Grand Prix,3/19/2023,Jeddah Saudi Arabia,Jeddah Corniche Circuit,1,11,Sergio PEREZ,Red Bull,25
+2023,2,Saudi Arabian Grand Prix,3/19/2023,Jeddah Saudi Arabia,Jeddah Corniche Circuit,2,1,Max VERSTAPPEN,Red Bull,19
+2023,2,Saudi Arabian Grand Prix,3/19/2023,Jeddah Saudi Arabia,Jeddah Corniche Circuit,3,14,Fernando ALONSO,Aston Martin,15
+2023,2,Saudi Arabian Grand Prix,3/19/2023,Jeddah Saudi Arabia,Jeddah Corniche Circuit,4,63,George RUSSELL,Mercedes,12
+2023,2,Saudi Arabian Grand Prix,3/19/2023,Jeddah Saudi Arabia,Jeddah Corniche Circuit,5,44,Lewis HAMILTON,Mercedes,10
+2023,2,Saudi Arabian Grand Prix,3/19/2023,Jeddah Saudi Arabia,Jeddah Corniche Circuit,6,55,Carlos SAINZ,Ferrari,8
+2023,2,Saudi Arabian Grand Prix,3/19/2023,Jeddah Saudi Arabia,Jeddah Corniche Circuit,7,16,Charles LECLERC,Ferrari,6
+2023,2,Saudi Arabian Grand Prix,3/19/2023,Jeddah Saudi Arabia,Jeddah Corniche Circuit,8,,Ocon,Alpine F1 Team,4
+2023,2,Saudi Arabian Grand Prix,3/19/2023,Jeddah Saudi Arabia,Jeddah Corniche Circuit,9,10,Pierre GASLY,Alpine F1 Team,2
+2023,2,Saudi Arabian Grand Prix,3/19/2023,Jeddah Saudi Arabia,Jeddah Corniche Circuit,10,20,Kevin MAGNUSSEN,Haas F1 Team,1
+2023,2,Saudi Arabian Grand Prix,3/19/2023,Jeddah Saudi Arabia,Jeddah Corniche Circuit,11,22,Yuki TSUNODA,AlphaTauri,0
+2023,2,Saudi Arabian Grand Prix,3/19/2023,Jeddah Saudi Arabia,Jeddah Corniche Circuit,12,27,Nico HULKENBERG,Haas F1 Team,0
+2023,2,Saudi Arabian Grand Prix,3/19/2023,Jeddah Saudi Arabia,Jeddah Corniche Circuit,13,24,ZHOU Guanyu,Alfa Romeo,0
+2023,2,Saudi Arabian Grand Prix,3/19/2023,Jeddah Saudi Arabia,Jeddah Corniche Circuit,14,21,Nyck DE VRIES,AlphaTauri,0
+2023,2,Saudi Arabian Grand Prix,3/19/2023,Jeddah Saudi Arabia,Jeddah Corniche Circuit,15,81,Oscar PIASTRI,McLaren,0
+2023,2,Saudi Arabian Grand Prix,3/19/2023,Jeddah Saudi Arabia,Jeddah Corniche Circuit,16,2,Logan SARGEANT,Williams,0
+2023,2,Saudi Arabian Grand Prix,3/19/2023,Jeddah Saudi Arabia,Jeddah Corniche Circuit,17,4,Lando NORRIS,McLaren,0
+2023,2,Saudi Arabian Grand Prix,3/19/2023,Jeddah Saudi Arabia,Jeddah Corniche Circuit,18,,Bottas,Alfa Romeo,0
+2023,2,Saudi Arabian Grand Prix,3/19/2023,Jeddah Saudi Arabia,Jeddah Corniche Circuit,R,23,Alexander ALBON,Williams,0
+2023,2,Saudi Arabian Grand Prix,3/19/2023,Jeddah Saudi Arabia,Jeddah Corniche Circuit,R,18,Lance STROLL,Aston Martin,0
+2023,3,Australian Grand Prix,4/2/2023,Melbourne Australia,Albert Park Grand Prix Circuit,1,1,Max VERSTAPPEN,Red Bull,25
+2023,3,Australian Grand Prix,4/2/2023,Melbourne Australia,Albert Park Grand Prix Circuit,2,44,Lewis HAMILTON,Mercedes,18
+2023,3,Australian Grand Prix,4/2/2023,Melbourne Australia,Albert Park Grand Prix Circuit,3,14,Fernando ALONSO,Aston Martin,15
+2023,3,Australian Grand Prix,4/2/2023,Melbourne Australia,Albert Park Grand Prix Circuit,4,18,Lance STROLL,Aston Martin,12
+2023,3,Australian Grand Prix,4/2/2023,Melbourne Australia,Albert Park Grand Prix Circuit,5,11,Sergio PEREZ,Red Bull,11
+2023,3,Australian Grand Prix,4/2/2023,Melbourne Australia,Albert Park Grand Prix Circuit,6,4,Lando NORRIS,McLaren,8
+2023,3,Australian Grand Prix,4/2/2023,Melbourne Australia,Albert Park Grand Prix Circuit,7,27,Nico HULKENBERG,Haas F1 Team,6
+2023,3,Australian Grand Prix,4/2/2023,Melbourne Australia,Albert Park Grand Prix Circuit,8,81,Oscar PIASTRI,McLaren,4
+2023,3,Australian Grand Prix,4/2/2023,Melbourne Australia,Albert Park Grand Prix Circuit,9,24,ZHOU Guanyu,Alfa Romeo,2
+2023,3,Australian Grand Prix,4/2/2023,Melbourne Australia,Albert Park Grand Prix Circuit,10,22,Yuki TSUNODA,AlphaTauri,1
+2023,3,Australian Grand Prix,4/2/2023,Melbourne Australia,Albert Park Grand Prix Circuit,11,,Bottas,Alfa Romeo,0
+2023,3,Australian Grand Prix,4/2/2023,Melbourne Australia,Albert Park Grand Prix Circuit,12,55,Carlos SAINZ,Ferrari,0
+2023,3,Australian Grand Prix,4/2/2023,Melbourne Australia,Albert Park Grand Prix Circuit,13,10,Pierre GASLY,Alpine F1 Team,0
+2023,3,Australian Grand Prix,4/2/2023,Melbourne Australia,Albert Park Grand Prix Circuit,14,,Ocon,Alpine F1 Team,0
+2023,3,Australian Grand Prix,4/2/2023,Melbourne Australia,Albert Park Grand Prix Circuit,15,21,Nyck DE VRIES,AlphaTauri,0
+2023,3,Australian Grand Prix,4/2/2023,Melbourne Australia,Albert Park Grand Prix Circuit,16,2,Logan SARGEANT,Williams,0
+2023,3,Australian Grand Prix,4/2/2023,Melbourne Australia,Albert Park Grand Prix Circuit,17,20,Kevin MAGNUSSEN,Haas F1 Team,0
+2023,3,Australian Grand Prix,4/2/2023,Melbourne Australia,Albert Park Grand Prix Circuit,R,63,George RUSSELL,Mercedes,0
+2023,3,Australian Grand Prix,4/2/2023,Melbourne Australia,Albert Park Grand Prix Circuit,R,23,Alexander ALBON,Williams,0
+2023,3,Australian Grand Prix,4/2/2023,Melbourne Australia,Albert Park Grand Prix Circuit,R,16,Charles LECLERC,Ferrari,0
+2023,4,Azerbaijan Grand Prix,4/30/2023,Baku Azerbaijan,Baku City Circuit,1,11,Sergio PEREZ,Red Bull,25
+2023,4,Azerbaijan Grand Prix,4/30/2023,Baku Azerbaijan,Baku City Circuit,2,1,Max VERSTAPPEN,Red Bull,18
+2023,4,Azerbaijan Grand Prix,4/30/2023,Baku Azerbaijan,Baku City Circuit,3,16,Charles LECLERC,Ferrari,15
+2023,4,Azerbaijan Grand Prix,4/30/2023,Baku Azerbaijan,Baku City Circuit,4,14,Fernando ALONSO,Aston Martin,12
+2023,4,Azerbaijan Grand Prix,4/30/2023,Baku Azerbaijan,Baku City Circuit,5,55,Carlos SAINZ,Ferrari,10
+2023,4,Azerbaijan Grand Prix,4/30/2023,Baku Azerbaijan,Baku City Circuit,6,44,Lewis HAMILTON,Mercedes,8
+2023,4,Azerbaijan Grand Prix,4/30/2023,Baku Azerbaijan,Baku City Circuit,7,18,Lance STROLL,Aston Martin,6
+2023,4,Azerbaijan Grand Prix,4/30/2023,Baku Azerbaijan,Baku City Circuit,8,63,George RUSSELL,Mercedes,5
+2023,4,Azerbaijan Grand Prix,4/30/2023,Baku Azerbaijan,Baku City Circuit,9,4,Lando NORRIS,McLaren,2
+2023,4,Azerbaijan Grand Prix,4/30/2023,Baku Azerbaijan,Baku City Circuit,10,22,Yuki TSUNODA,AlphaTauri,1
+2023,4,Azerbaijan Grand Prix,4/30/2023,Baku Azerbaijan,Baku City Circuit,11,81,Oscar PIASTRI,McLaren,0
+2023,4,Azerbaijan Grand Prix,4/30/2023,Baku Azerbaijan,Baku City Circuit,12,23,Alexander ALBON,Williams,0
+2023,4,Azerbaijan Grand Prix,4/30/2023,Baku Azerbaijan,Baku City Circuit,13,20,Kevin MAGNUSSEN,Haas F1 Team,0
+2023,4,Azerbaijan Grand Prix,4/30/2023,Baku Azerbaijan,Baku City Circuit,14,10,Pierre GASLY,Alpine F1 Team,0
+2023,4,Azerbaijan Grand Prix,4/30/2023,Baku Azerbaijan,Baku City Circuit,15,,Ocon,Alpine F1 Team,0
+2023,4,Azerbaijan Grand Prix,4/30/2023,Baku Azerbaijan,Baku City Circuit,16,2,Logan SARGEANT,Williams,0
+2023,4,Azerbaijan Grand Prix,4/30/2023,Baku Azerbaijan,Baku City Circuit,17,27,Nico HULKENBERG,Haas F1 Team,0
+2023,4,Azerbaijan Grand Prix,4/30/2023,Baku Azerbaijan,Baku City Circuit,18,,Bottas,Alfa Romeo,0
+2023,4,Azerbaijan Grand Prix,4/30/2023,Baku Azerbaijan,Baku City Circuit,R,24,ZHOU Guanyu,Alfa Romeo,0
+2023,4,Azerbaijan Grand Prix,4/30/2023,Baku Azerbaijan,Baku City Circuit,R,21,Nyck DE VRIES,AlphaTauri,0
+2023,5,Miami Grand Prix,5/7/2023,Miami USA,Miami International Autodrome,1,1,Max VERSTAPPEN,Red Bull,26
+2023,5,Miami Grand Prix,5/7/2023,Miami USA,Miami International Autodrome,2,11,Sergio PEREZ,Red Bull,18
+2023,5,Miami Grand Prix,5/7/2023,Miami USA,Miami International Autodrome,3,14,Fernando ALONSO,Aston Martin,15
+2023,5,Miami Grand Prix,5/7/2023,Miami USA,Miami International Autodrome,4,63,George RUSSELL,Mercedes,12
+2023,5,Miami Grand Prix,5/7/2023,Miami USA,Miami International Autodrome,5,55,Carlos SAINZ,Ferrari,10
+2023,5,Miami Grand Prix,5/7/2023,Miami USA,Miami International Autodrome,6,44,Lewis HAMILTON,Mercedes,8
+2023,5,Miami Grand Prix,5/7/2023,Miami USA,Miami International Autodrome,7,16,Charles LECLERC,Ferrari,6
+2023,5,Miami Grand Prix,5/7/2023,Miami USA,Miami International Autodrome,8,10,Pierre GASLY,Alpine F1 Team,4
+2023,5,Miami Grand Prix,5/7/2023,Miami USA,Miami International Autodrome,9,,Ocon,Alpine F1 Team,2
+2023,5,Miami Grand Prix,5/7/2023,Miami USA,Miami International Autodrome,10,20,Kevin MAGNUSSEN,Haas F1 Team,1
+2023,5,Miami Grand Prix,5/7/2023,Miami USA,Miami International Autodrome,11,22,Yuki TSUNODA,AlphaTauri,0
+2023,5,Miami Grand Prix,5/7/2023,Miami USA,Miami International Autodrome,12,18,Lance STROLL,Aston Martin,0
+2023,5,Miami Grand Prix,5/7/2023,Miami USA,Miami International Autodrome,13,,Bottas,Alfa Romeo,0
+2023,5,Miami Grand Prix,5/7/2023,Miami USA,Miami International Autodrome,14,23,Alexander ALBON,Williams,0
+2023,5,Miami Grand Prix,5/7/2023,Miami USA,Miami International Autodrome,15,27,Nico HULKENBERG,Haas F1 Team,0
+2023,5,Miami Grand Prix,5/7/2023,Miami USA,Miami International Autodrome,16,24,ZHOU Guanyu,Alfa Romeo,0
+2023,5,Miami Grand Prix,5/7/2023,Miami USA,Miami International Autodrome,17,4,Lando NORRIS,McLaren,0
+2023,5,Miami Grand Prix,5/7/2023,Miami USA,Miami International Autodrome,18,21,Nyck DE VRIES,AlphaTauri,0
+2023,5,Miami Grand Prix,5/7/2023,Miami USA,Miami International Autodrome,19,81,Oscar PIASTRI,McLaren,0
+2023,5,Miami Grand Prix,5/7/2023,Miami USA,Miami International Autodrome,20,2,Logan SARGEANT,Williams,0
+2023,6,Monaco Grand Prix,5/28/2023,Monte-Carlo Monaco,Circuit de Monaco,1,1,Max VERSTAPPEN,Red Bull,25
+2023,6,Monaco Grand Prix,5/28/2023,Monte-Carlo Monaco,Circuit de Monaco,2,14,Fernando ALONSO,Aston Martin,18
+2023,6,Monaco Grand Prix,5/28/2023,Monte-Carlo Monaco,Circuit de Monaco,3,,Ocon,Alpine F1 Team,15
+2023,6,Monaco Grand Prix,5/28/2023,Monte-Carlo Monaco,Circuit de Monaco,4,44,Lewis HAMILTON,Mercedes,13
+2023,6,Monaco Grand Prix,5/28/2023,Monte-Carlo Monaco,Circuit de Monaco,5,63,George RUSSELL,Mercedes,10
+2023,6,Monaco Grand Prix,5/28/2023,Monte-Carlo Monaco,Circuit de Monaco,6,16,Charles LECLERC,Ferrari,8
+2023,6,Monaco Grand Prix,5/28/2023,Monte-Carlo Monaco,Circuit de Monaco,7,10,Pierre GASLY,Alpine F1 Team,6
+2023,6,Monaco Grand Prix,5/28/2023,Monte-Carlo Monaco,Circuit de Monaco,8,55,Carlos SAINZ,Ferrari,4
+2023,6,Monaco Grand Prix,5/28/2023,Monte-Carlo Monaco,Circuit de Monaco,9,4,Lando NORRIS,McLaren,2
+2023,6,Monaco Grand Prix,5/28/2023,Monte-Carlo Monaco,Circuit de Monaco,10,81,Oscar PIASTRI,McLaren,1
+2023,6,Monaco Grand Prix,5/28/2023,Monte-Carlo Monaco,Circuit de Monaco,11,,Bottas,Alfa Romeo,0
+2023,6,Monaco Grand Prix,5/28/2023,Monte-Carlo Monaco,Circuit de Monaco,12,21,Nyck DE VRIES,AlphaTauri,0
+2023,6,Monaco Grand Prix,5/28/2023,Monte-Carlo Monaco,Circuit de Monaco,13,24,ZHOU Guanyu,Alfa Romeo,0
+2023,6,Monaco Grand Prix,5/28/2023,Monte-Carlo Monaco,Circuit de Monaco,14,23,Alexander ALBON,Williams,0
+2023,6,Monaco Grand Prix,5/28/2023,Monte-Carlo Monaco,Circuit de Monaco,15,22,Yuki TSUNODA,AlphaTauri,0
+2023,6,Monaco Grand Prix,5/28/2023,Monte-Carlo Monaco,Circuit de Monaco,16,11,Sergio PEREZ,Red Bull,0
+2023,6,Monaco Grand Prix,5/28/2023,Monte-Carlo Monaco,Circuit de Monaco,17,27,Nico HULKENBERG,Haas F1 Team,0
+2023,6,Monaco Grand Prix,5/28/2023,Monte-Carlo Monaco,Circuit de Monaco,18,2,Logan SARGEANT,Williams,0
+2023,6,Monaco Grand Prix,5/28/2023,Monte-Carlo Monaco,Circuit de Monaco,R,20,Kevin MAGNUSSEN,Haas F1 Team,0
+2023,6,Monaco Grand Prix,5/28/2023,Monte-Carlo Monaco,Circuit de Monaco,R,18,Lance STROLL,Aston Martin,0
+2023,7,Spanish Grand Prix,6/4/2023,Montmeló Spain,Circuit de Barcelona-Catalunya,1,1,Max VERSTAPPEN,Red Bull,26
+2023,7,Spanish Grand Prix,6/4/2023,Montmeló Spain,Circuit de Barcelona-Catalunya,2,44,Lewis HAMILTON,Mercedes,18
+2023,7,Spanish Grand Prix,6/4/2023,Montmeló Spain,Circuit de Barcelona-Catalunya,3,63,George RUSSELL,Mercedes,15
+2023,7,Spanish Grand Prix,6/4/2023,Montmeló Spain,Circuit de Barcelona-Catalunya,4,11,Sergio PEREZ,Red Bull,12
+2023,7,Spanish Grand Prix,6/4/2023,Montmeló Spain,Circuit de Barcelona-Catalunya,5,55,Carlos SAINZ,Ferrari,10
+2023,7,Spanish Grand Prix,6/4/2023,Montmeló Spain,Circuit de Barcelona-Catalunya,6,18,Lance STROLL,Aston Martin,8
+2023,7,Spanish Grand Prix,6/4/2023,Montmeló Spain,Circuit de Barcelona-Catalunya,7,14,Fernando ALONSO,Aston Martin,6
+2023,7,Spanish Grand Prix,6/4/2023,Montmeló Spain,Circuit de Barcelona-Catalunya,8,,Ocon,Alpine F1 Team,4
+2023,7,Spanish Grand Prix,6/4/2023,Montmeló Spain,Circuit de Barcelona-Catalunya,9,24,ZHOU Guanyu,Alfa Romeo,2
+2023,7,Spanish Grand Prix,6/4/2023,Montmeló Spain,Circuit de Barcelona-Catalunya,10,10,Pierre GASLY,Alpine F1 Team,1
+2023,7,Spanish Grand Prix,6/4/2023,Montmeló Spain,Circuit de Barcelona-Catalunya,11,16,Charles LECLERC,Ferrari,0
+2023,7,Spanish Grand Prix,6/4/2023,Montmeló Spain,Circuit de Barcelona-Catalunya,12,22,Yuki TSUNODA,AlphaTauri,0
+2023,7,Spanish Grand Prix,6/4/2023,Montmeló Spain,Circuit de Barcelona-Catalunya,13,81,Oscar PIASTRI,McLaren,0
+2023,7,Spanish Grand Prix,6/4/2023,Montmeló Spain,Circuit de Barcelona-Catalunya,14,21,Nyck DE VRIES,AlphaTauri,0
+2023,7,Spanish Grand Prix,6/4/2023,Montmeló Spain,Circuit de Barcelona-Catalunya,15,27,Nico HULKENBERG,Haas F1 Team,0
+2023,7,Spanish Grand Prix,6/4/2023,Montmeló Spain,Circuit de Barcelona-Catalunya,16,23,Alexander ALBON,Williams,0
+2023,7,Spanish Grand Prix,6/4/2023,Montmeló Spain,Circuit de Barcelona-Catalunya,17,4,Lando NORRIS,McLaren,0
+2023,7,Spanish Grand Prix,6/4/2023,Montmeló Spain,Circuit de Barcelona-Catalunya,18,20,Kevin MAGNUSSEN,Haas F1 Team,0
+2023,7,Spanish Grand Prix,6/4/2023,Montmeló Spain,Circuit de Barcelona-Catalunya,19,,Bottas,Alfa Romeo,0
+2023,7,Spanish Grand Prix,6/4/2023,Montmeló Spain,Circuit de Barcelona-Catalunya,20,2,Logan SARGEANT,Williams,0
+2023,8,Canadian Grand Prix,6/18/2023,Montreal Canada,Circuit Gilles Villeneuve,1,1,Max VERSTAPPEN,Red Bull,25
+2023,8,Canadian Grand Prix,6/18/2023,Montreal Canada,Circuit Gilles Villeneuve,2,14,Fernando ALONSO,Aston Martin,18
+2023,8,Canadian Grand Prix,6/18/2023,Montreal Canada,Circuit Gilles Villeneuve,3,44,Lewis HAMILTON,Mercedes,15
+2023,8,Canadian Grand Prix,6/18/2023,Montreal Canada,Circuit Gilles Villeneuve,4,16,Charles LECLERC,Ferrari,12
+2023,8,Canadian Grand Prix,6/18/2023,Montreal Canada,Circuit Gilles Villeneuve,5,55,Carlos SAINZ,Ferrari,10
+2023,8,Canadian Grand Prix,6/18/2023,Montreal Canada,Circuit Gilles Villeneuve,6,11,Sergio PEREZ,Red Bull,9
+2023,8,Canadian Grand Prix,6/18/2023,Montreal Canada,Circuit Gilles Villeneuve,7,23,Alexander ALBON,Williams,6
+2023,8,Canadian Grand Prix,6/18/2023,Montreal Canada,Circuit Gilles Villeneuve,8,,Ocon,Alpine F1 Team,4
+2023,8,Canadian Grand Prix,6/18/2023,Montreal Canada,Circuit Gilles Villeneuve,9,18,Lance STROLL,Aston Martin,2
+2023,8,Canadian Grand Prix,6/18/2023,Montreal Canada,Circuit Gilles Villeneuve,10,,Bottas,Alfa Romeo,1
+2023,8,Canadian Grand Prix,6/18/2023,Montreal Canada,Circuit Gilles Villeneuve,11,81,Oscar PIASTRI,McLaren,0
+2023,8,Canadian Grand Prix,6/18/2023,Montreal Canada,Circuit Gilles Villeneuve,12,10,Pierre GASLY,Alpine F1 Team,0
+2023,8,Canadian Grand Prix,6/18/2023,Montreal Canada,Circuit Gilles Villeneuve,13,4,Lando NORRIS,McLaren,0
+2023,8,Canadian Grand Prix,6/18/2023,Montreal Canada,Circuit Gilles Villeneuve,14,22,Yuki TSUNODA,AlphaTauri,0
+2023,8,Canadian Grand Prix,6/18/2023,Montreal Canada,Circuit Gilles Villeneuve,15,27,Nico HULKENBERG,Haas F1 Team,0
+2023,8,Canadian Grand Prix,6/18/2023,Montreal Canada,Circuit Gilles Villeneuve,16,24,ZHOU Guanyu,Alfa Romeo,0
+2023,8,Canadian Grand Prix,6/18/2023,Montreal Canada,Circuit Gilles Villeneuve,17,20,Kevin MAGNUSSEN,Haas F1 Team,0
+2023,8,Canadian Grand Prix,6/18/2023,Montreal Canada,Circuit Gilles Villeneuve,18,21,Nyck DE VRIES,AlphaTauri,0
+2023,8,Canadian Grand Prix,6/18/2023,Montreal Canada,Circuit Gilles Villeneuve,R,63,George RUSSELL,Mercedes,0
+2023,8,Canadian Grand Prix,6/18/2023,Montreal Canada,Circuit Gilles Villeneuve,R,2,Logan SARGEANT,Williams,0
+2023,9,Austrian Grand Prix,7/2/2023,Spielberg Austria,Red Bull Ring,1,1,Max VERSTAPPEN,Red Bull,26
+2023,9,Austrian Grand Prix,7/2/2023,Spielberg Austria,Red Bull Ring,2,16,Charles LECLERC,Ferrari,18
+2023,9,Austrian Grand Prix,7/2/2023,Spielberg Austria,Red Bull Ring,3,11,Sergio PEREZ,Red Bull,15
+2023,9,Austrian Grand Prix,7/2/2023,Spielberg Austria,Red Bull Ring,4,4,Lando NORRIS,McLaren,12
+2023,9,Austrian Grand Prix,7/2/2023,Spielberg Austria,Red Bull Ring,5,14,Fernando ALONSO,Aston Martin,10
+2023,9,Austrian Grand Prix,7/2/2023,Spielberg Austria,Red Bull Ring,6,55,Carlos SAINZ,Ferrari,8
+2023,9,Austrian Grand Prix,7/2/2023,Spielberg Austria,Red Bull Ring,7,63,George RUSSELL,Mercedes,6
+2023,9,Austrian Grand Prix,7/2/2023,Spielberg Austria,Red Bull Ring,8,44,Lewis HAMILTON,Mercedes,4
+2023,9,Austrian Grand Prix,7/2/2023,Spielberg Austria,Red Bull Ring,9,18,Lance STROLL,Aston Martin,2
+2023,9,Austrian Grand Prix,7/2/2023,Spielberg Austria,Red Bull Ring,10,10,Pierre GASLY,Alpine F1 Team,1
+2023,9,Austrian Grand Prix,7/2/2023,Spielberg Austria,Red Bull Ring,11,23,Alexander ALBON,Williams,0
+2023,9,Austrian Grand Prix,7/2/2023,Spielberg Austria,Red Bull Ring,12,24,ZHOU Guanyu,Alfa Romeo,0
+2023,9,Austrian Grand Prix,7/2/2023,Spielberg Austria,Red Bull Ring,13,2,Logan SARGEANT,Williams,0
+2023,9,Austrian Grand Prix,7/2/2023,Spielberg Austria,Red Bull Ring,14,,Ocon,Alpine F1 Team,0
+2023,9,Austrian Grand Prix,7/2/2023,Spielberg Austria,Red Bull Ring,15,,Bottas,Alfa Romeo,0
+2023,9,Austrian Grand Prix,7/2/2023,Spielberg Austria,Red Bull Ring,16,81,Oscar PIASTRI,McLaren,0
+2023,9,Austrian Grand Prix,7/2/2023,Spielberg Austria,Red Bull Ring,17,21,Nyck DE VRIES,AlphaTauri,0
+2023,9,Austrian Grand Prix,7/2/2023,Spielberg Austria,Red Bull Ring,18,20,Kevin MAGNUSSEN,Haas F1 Team,0
+2023,9,Austrian Grand Prix,7/2/2023,Spielberg Austria,Red Bull Ring,19,22,Yuki TSUNODA,AlphaTauri,0
+2023,9,Austrian Grand Prix,7/2/2023,Spielberg Austria,Red Bull Ring,R,27,Nico HULKENBERG,Haas F1 Team,0
+2023,10,British Grand Prix,7/9/2023,Silverstone UK,Silverstone Circuit,1,1,Max VERSTAPPEN,Red Bull,26
+2023,10,British Grand Prix,7/9/2023,Silverstone UK,Silverstone Circuit,2,4,Lando NORRIS,McLaren,18
+2023,10,British Grand Prix,7/9/2023,Silverstone UK,Silverstone Circuit,3,44,Lewis HAMILTON,Mercedes,15
+2023,10,British Grand Prix,7/9/2023,Silverstone UK,Silverstone Circuit,4,81,Oscar PIASTRI,McLaren,12
+2023,10,British Grand Prix,7/9/2023,Silverstone UK,Silverstone Circuit,5,63,George RUSSELL,Mercedes,10
+2023,10,British Grand Prix,7/9/2023,Silverstone UK,Silverstone Circuit,6,11,Sergio PEREZ,Red Bull,8
+2023,10,British Grand Prix,7/9/2023,Silverstone UK,Silverstone Circuit,7,14,Fernando ALONSO,Aston Martin,6
+2023,10,British Grand Prix,7/9/2023,Silverstone UK,Silverstone Circuit,8,23,Alexander ALBON,Williams,4
+2023,10,British Grand Prix,7/9/2023,Silverstone UK,Silverstone Circuit,9,16,Charles LECLERC,Ferrari,2
+2023,10,British Grand Prix,7/9/2023,Silverstone UK,Silverstone Circuit,10,55,Carlos SAINZ,Ferrari,1
+2023,10,British Grand Prix,7/9/2023,Silverstone UK,Silverstone Circuit,11,2,Logan SARGEANT,Williams,0
+2023,10,British Grand Prix,7/9/2023,Silverstone UK,Silverstone Circuit,12,,Bottas,Alfa Romeo,0
+2023,10,British Grand Prix,7/9/2023,Silverstone UK,Silverstone Circuit,13,27,Nico HULKENBERG,Haas F1 Team,0
+2023,10,British Grand Prix,7/9/2023,Silverstone UK,Silverstone Circuit,14,18,Lance STROLL,Aston Martin,0
+2023,10,British Grand Prix,7/9/2023,Silverstone UK,Silverstone Circuit,15,24,ZHOU Guanyu,Alfa Romeo,0
+2023,10,British Grand Prix,7/9/2023,Silverstone UK,Silverstone Circuit,16,22,Yuki TSUNODA,AlphaTauri,0
+2023,10,British Grand Prix,7/9/2023,Silverstone UK,Silverstone Circuit,17,21,Nyck DE VRIES,AlphaTauri,0
+2023,10,British Grand Prix,7/9/2023,Silverstone UK,Silverstone Circuit,18,10,Pierre GASLY,Alpine F1 Team,0
+2023,10,British Grand Prix,7/9/2023,Silverstone UK,Silverstone Circuit,R,20,Kevin MAGNUSSEN,Haas F1 Team,0
+2023,10,British Grand Prix,7/9/2023,Silverstone UK,Silverstone Circuit,R,,Ocon,Alpine F1 Team,0
+2023,11,Hungarian Grand Prix,7/23/2023,Budapest Hungary,Hungaroring,1,1,Max VERSTAPPEN,Red Bull,26
+2023,11,Hungarian Grand Prix,7/23/2023,Budapest Hungary,Hungaroring,2,4,Lando NORRIS,McLaren,18
+2023,11,Hungarian Grand Prix,7/23/2023,Budapest Hungary,Hungaroring,3,11,Sergio PEREZ,Red Bull,15
+2023,11,Hungarian Grand Prix,7/23/2023,Budapest Hungary,Hungaroring,4,44,Lewis HAMILTON,Mercedes,12
+2023,11,Hungarian Grand Prix,7/23/2023,Budapest Hungary,Hungaroring,5,81,Oscar PIASTRI,McLaren,10
+2023,11,Hungarian Grand Prix,7/23/2023,Budapest Hungary,Hungaroring,6,63,George RUSSELL,Mercedes,8
+2023,11,Hungarian Grand Prix,7/23/2023,Budapest Hungary,Hungaroring,7,16,Charles LECLERC,Ferrari,6
+2023,11,Hungarian Grand Prix,7/23/2023,Budapest Hungary,Hungaroring,8,55,Carlos SAINZ,Ferrari,4
+2023,11,Hungarian Grand Prix,7/23/2023,Budapest Hungary,Hungaroring,9,14,Fernando ALONSO,Aston Martin,2
+2023,11,Hungarian Grand Prix,7/23/2023,Budapest Hungary,Hungaroring,10,18,Lance STROLL,Aston Martin,1
+2023,11,Hungarian Grand Prix,7/23/2023,Budapest Hungary,Hungaroring,11,23,Alexander ALBON,Williams,0
+2023,11,Hungarian Grand Prix,7/23/2023,Budapest Hungary,Hungaroring,12,,Bottas,Alfa Romeo,0
+2023,11,Hungarian Grand Prix,7/23/2023,Budapest Hungary,Hungaroring,13,,Ricciardo,AlphaTauri,0
+2023,11,Hungarian Grand Prix,7/23/2023,Budapest Hungary,Hungaroring,14,27,Nico HULKENBERG,Haas F1 Team,0
+2023,11,Hungarian Grand Prix,7/23/2023,Budapest Hungary,Hungaroring,15,22,Yuki TSUNODA,AlphaTauri,0
+2023,11,Hungarian Grand Prix,7/23/2023,Budapest Hungary,Hungaroring,16,24,ZHOU Guanyu,Alfa Romeo,0
+2023,11,Hungarian Grand Prix,7/23/2023,Budapest Hungary,Hungaroring,17,20,Kevin MAGNUSSEN,Haas F1 Team,0
+2023,11,Hungarian Grand Prix,7/23/2023,Budapest Hungary,Hungaroring,R,2,Logan SARGEANT,Williams,0
+2023,11,Hungarian Grand Prix,7/23/2023,Budapest Hungary,Hungaroring,R,,Ocon,Alpine F1 Team,0
+2023,11,Hungarian Grand Prix,7/23/2023,Budapest Hungary,Hungaroring,R,10,Pierre GASLY,Alpine F1 Team,0
+2023,12,Belgian Grand Prix,7/30/2023,Spa Belgium,Circuit de Spa-Francorchamps,1,1,Max VERSTAPPEN,Red Bull,25
+2023,12,Belgian Grand Prix,7/30/2023,Spa Belgium,Circuit de Spa-Francorchamps,2,11,Sergio PEREZ,Red Bull,18
+2023,12,Belgian Grand Prix,7/30/2023,Spa Belgium,Circuit de Spa-Francorchamps,3,16,Charles LECLERC,Ferrari,15
+2023,12,Belgian Grand Prix,7/30/2023,Spa Belgium,Circuit de Spa-Francorchamps,4,44,Lewis HAMILTON,Mercedes,13
+2023,12,Belgian Grand Prix,7/30/2023,Spa Belgium,Circuit de Spa-Francorchamps,5,14,Fernando ALONSO,Aston Martin,10
+2023,12,Belgian Grand Prix,7/30/2023,Spa Belgium,Circuit de Spa-Francorchamps,6,63,George RUSSELL,Mercedes,8
+2023,12,Belgian Grand Prix,7/30/2023,Spa Belgium,Circuit de Spa-Francorchamps,7,4,Lando NORRIS,McLaren,6
+2023,12,Belgian Grand Prix,7/30/2023,Spa Belgium,Circuit de Spa-Francorchamps,8,,Ocon,Alpine F1 Team,4
+2023,12,Belgian Grand Prix,7/30/2023,Spa Belgium,Circuit de Spa-Francorchamps,9,18,Lance STROLL,Aston Martin,2
+2023,12,Belgian Grand Prix,7/30/2023,Spa Belgium,Circuit de Spa-Francorchamps,10,22,Yuki TSUNODA,AlphaTauri,1
+2023,12,Belgian Grand Prix,7/30/2023,Spa Belgium,Circuit de Spa-Francorchamps,11,10,Pierre GASLY,Alpine F1 Team,0
+2023,12,Belgian Grand Prix,7/30/2023,Spa Belgium,Circuit de Spa-Francorchamps,12,,Bottas,Alfa Romeo,0
+2023,12,Belgian Grand Prix,7/30/2023,Spa Belgium,Circuit de Spa-Francorchamps,13,24,ZHOU Guanyu,Alfa Romeo,0
+2023,12,Belgian Grand Prix,7/30/2023,Spa Belgium,Circuit de Spa-Francorchamps,14,23,Alexander ALBON,Williams,0
+2023,12,Belgian Grand Prix,7/30/2023,Spa Belgium,Circuit de Spa-Francorchamps,15,20,Kevin MAGNUSSEN,Haas F1 Team,0
+2023,12,Belgian Grand Prix,7/30/2023,Spa Belgium,Circuit de Spa-Francorchamps,16,,Ricciardo,AlphaTauri,0
+2023,12,Belgian Grand Prix,7/30/2023,Spa Belgium,Circuit de Spa-Francorchamps,17,2,Logan SARGEANT,Williams,0
+2023,12,Belgian Grand Prix,7/30/2023,Spa Belgium,Circuit de Spa-Francorchamps,18,27,Nico HULKENBERG,Haas F1 Team,0
+2023,12,Belgian Grand Prix,7/30/2023,Spa Belgium,Circuit de Spa-Francorchamps,R,55,Carlos SAINZ,Ferrari,0
+2023,12,Belgian Grand Prix,7/30/2023,Spa Belgium,Circuit de Spa-Francorchamps,R,81,Oscar PIASTRI,McLaren,0
+2023,13,Dutch Grand Prix,8/27/2023,Zandvoort Netherlands,Circuit Park Zandvoort,1,1,Max VERSTAPPEN,Red Bull,25
+2023,13,Dutch Grand Prix,8/27/2023,Zandvoort Netherlands,Circuit Park Zandvoort,2,14,Fernando ALONSO,Aston Martin,19
+2023,13,Dutch Grand Prix,8/27/2023,Zandvoort Netherlands,Circuit Park Zandvoort,3,10,Pierre GASLY,Alpine F1 Team,15
+2023,13,Dutch Grand Prix,8/27/2023,Zandvoort Netherlands,Circuit Park Zandvoort,4,11,Sergio PEREZ,Red Bull,12
+2023,13,Dutch Grand Prix,8/27/2023,Zandvoort Netherlands,Circuit Park Zandvoort,5,55,Carlos SAINZ,Ferrari,10
+2023,13,Dutch Grand Prix,8/27/2023,Zandvoort Netherlands,Circuit Park Zandvoort,6,44,Lewis HAMILTON,Mercedes,8
+2023,13,Dutch Grand Prix,8/27/2023,Zandvoort Netherlands,Circuit Park Zandvoort,7,4,Lando NORRIS,McLaren,6
+2023,13,Dutch Grand Prix,8/27/2023,Zandvoort Netherlands,Circuit Park Zandvoort,8,23,Alexander ALBON,Williams,4
+2023,13,Dutch Grand Prix,8/27/2023,Zandvoort Netherlands,Circuit Park Zandvoort,9,81,Oscar PIASTRI,McLaren,2
+2023,13,Dutch Grand Prix,8/27/2023,Zandvoort Netherlands,Circuit Park Zandvoort,10,,Ocon,Alpine F1 Team,1
+2023,13,Dutch Grand Prix,8/27/2023,Zandvoort Netherlands,Circuit Park Zandvoort,11,18,Lance STROLL,Aston Martin,0
+2023,13,Dutch Grand Prix,8/27/2023,Zandvoort Netherlands,Circuit Park Zandvoort,12,27,Nico HULKENBERG,Haas F1 Team,0
+2023,13,Dutch Grand Prix,8/27/2023,Zandvoort Netherlands,Circuit Park Zandvoort,13,,Lawson,AlphaTauri,0
+2023,13,Dutch Grand Prix,8/27/2023,Zandvoort Netherlands,Circuit Park Zandvoort,14,,Bottas,Alfa Romeo,0
+2023,13,Dutch Grand Prix,8/27/2023,Zandvoort Netherlands,Circuit Park Zandvoort,15,22,Yuki TSUNODA,AlphaTauri,0
+2023,13,Dutch Grand Prix,8/27/2023,Zandvoort Netherlands,Circuit Park Zandvoort,16,20,Kevin MAGNUSSEN,Haas F1 Team,0
+2023,13,Dutch Grand Prix,8/27/2023,Zandvoort Netherlands,Circuit Park Zandvoort,17,63,George RUSSELL,Mercedes,0
+2023,13,Dutch Grand Prix,8/27/2023,Zandvoort Netherlands,Circuit Park Zandvoort,R,24,ZHOU Guanyu,Alfa Romeo,0
+2023,13,Dutch Grand Prix,8/27/2023,Zandvoort Netherlands,Circuit Park Zandvoort,R,16,Charles LECLERC,Ferrari,0
+2023,13,Dutch Grand Prix,8/27/2023,Zandvoort Netherlands,Circuit Park Zandvoort,R,2,Logan SARGEANT,Williams,0
+2023,14,Italian Grand Prix,9/3/2023,Monza Italy,Autodromo Nazionale di Monza,1,1,Max VERSTAPPEN,Red Bull,25
+2023,14,Italian Grand Prix,9/3/2023,Monza Italy,Autodromo Nazionale di Monza,2,11,Sergio PEREZ,Red Bull,18
+2023,14,Italian Grand Prix,9/3/2023,Monza Italy,Autodromo Nazionale di Monza,3,55,Carlos SAINZ,Ferrari,15
+2023,14,Italian Grand Prix,9/3/2023,Monza Italy,Autodromo Nazionale di Monza,4,16,Charles LECLERC,Ferrari,12
+2023,14,Italian Grand Prix,9/3/2023,Monza Italy,Autodromo Nazionale di Monza,5,63,George RUSSELL,Mercedes,10
+2023,14,Italian Grand Prix,9/3/2023,Monza Italy,Autodromo Nazionale di Monza,6,44,Lewis HAMILTON,Mercedes,8
+2023,14,Italian Grand Prix,9/3/2023,Monza Italy,Autodromo Nazionale di Monza,7,23,Alexander ALBON,Williams,6
+2023,14,Italian Grand Prix,9/3/2023,Monza Italy,Autodromo Nazionale di Monza,8,4,Lando NORRIS,McLaren,4
+2023,14,Italian Grand Prix,9/3/2023,Monza Italy,Autodromo Nazionale di Monza,9,14,Fernando ALONSO,Aston Martin,2
+2023,14,Italian Grand Prix,9/3/2023,Monza Italy,Autodromo Nazionale di Monza,10,,Bottas,Alfa Romeo,1
+2023,14,Italian Grand Prix,9/3/2023,Monza Italy,Autodromo Nazionale di Monza,11,,Lawson,AlphaTauri,0
+2023,14,Italian Grand Prix,9/3/2023,Monza Italy,Autodromo Nazionale di Monza,12,81,Oscar PIASTRI,McLaren,0
+2023,14,Italian Grand Prix,9/3/2023,Monza Italy,Autodromo Nazionale di Monza,13,2,Logan SARGEANT,Williams,0
+2023,14,Italian Grand Prix,9/3/2023,Monza Italy,Autodromo Nazionale di Monza,14,24,ZHOU Guanyu,Alfa Romeo,0
+2023,14,Italian Grand Prix,9/3/2023,Monza Italy,Autodromo Nazionale di Monza,15,10,Pierre GASLY,Alpine F1 Team,0
+2023,14,Italian Grand Prix,9/3/2023,Monza Italy,Autodromo Nazionale di Monza,16,18,Lance STROLL,Aston Martin,0
+2023,14,Italian Grand Prix,9/3/2023,Monza Italy,Autodromo Nazionale di Monza,17,27,Nico HULKENBERG,Haas F1 Team,0
+2023,14,Italian Grand Prix,9/3/2023,Monza Italy,Autodromo Nazionale di Monza,18,20,Kevin MAGNUSSEN,Haas F1 Team,0
+2023,14,Italian Grand Prix,9/3/2023,Monza Italy,Autodromo Nazionale di Monza,R,,Ocon,Alpine F1 Team,0
+2023,14,Italian Grand Prix,9/3/2023,Monza Italy,Autodromo Nazionale di Monza,R,22,Yuki TSUNODA,AlphaTauri,0
+2023,15,Singapore Grand Prix,9/17/2023,Marina Bay Singapore,Marina Bay Street Circuit,1,55,Carlos SAINZ,Ferrari,25
+2023,15,Singapore Grand Prix,9/17/2023,Marina Bay Singapore,Marina Bay Street Circuit,2,4,Lando NORRIS,McLaren,18
+2023,15,Singapore Grand Prix,9/17/2023,Marina Bay Singapore,Marina Bay Street Circuit,3,44,Lewis HAMILTON,Mercedes,16
+2023,15,Singapore Grand Prix,9/17/2023,Marina Bay Singapore,Marina Bay Street Circuit,4,16,Charles LECLERC,Ferrari,12
+2023,15,Singapore Grand Prix,9/17/2023,Marina Bay Singapore,Marina Bay Street Circuit,5,1,Max VERSTAPPEN,Red Bull,10
+2023,15,Singapore Grand Prix,9/17/2023,Marina Bay Singapore,Marina Bay Street Circuit,6,10,Pierre GASLY,Alpine F1 Team,8
+2023,15,Singapore Grand Prix,9/17/2023,Marina Bay Singapore,Marina Bay Street Circuit,7,81,Oscar PIASTRI,McLaren,6
+2023,15,Singapore Grand Prix,9/17/2023,Marina Bay Singapore,Marina Bay Street Circuit,8,11,Sergio PEREZ,Red Bull,4
+2023,15,Singapore Grand Prix,9/17/2023,Marina Bay Singapore,Marina Bay Street Circuit,9,,Lawson,AlphaTauri,2
+2023,15,Singapore Grand Prix,9/17/2023,Marina Bay Singapore,Marina Bay Street Circuit,10,20,Kevin MAGNUSSEN,Haas F1 Team,1
+2023,15,Singapore Grand Prix,9/17/2023,Marina Bay Singapore,Marina Bay Street Circuit,11,23,Alexander ALBON,Williams,0
+2023,15,Singapore Grand Prix,9/17/2023,Marina Bay Singapore,Marina Bay Street Circuit,12,24,ZHOU Guanyu,Alfa Romeo,0
+2023,15,Singapore Grand Prix,9/17/2023,Marina Bay Singapore,Marina Bay Street Circuit,13,27,Nico HULKENBERG,Haas F1 Team,0
+2023,15,Singapore Grand Prix,9/17/2023,Marina Bay Singapore,Marina Bay Street Circuit,14,2,Logan SARGEANT,Williams,0
+2023,15,Singapore Grand Prix,9/17/2023,Marina Bay Singapore,Marina Bay Street Circuit,15,14,Fernando ALONSO,Aston Martin,0
+2023,15,Singapore Grand Prix,9/17/2023,Marina Bay Singapore,Marina Bay Street Circuit,16,63,George RUSSELL,Mercedes,0
+2023,15,Singapore Grand Prix,9/17/2023,Marina Bay Singapore,Marina Bay Street Circuit,R,,Bottas,Alfa Romeo,0
+2023,15,Singapore Grand Prix,9/17/2023,Marina Bay Singapore,Marina Bay Street Circuit,R,,Ocon,Alpine F1 Team,0
+2023,15,Singapore Grand Prix,9/17/2023,Marina Bay Singapore,Marina Bay Street Circuit,R,22,Yuki TSUNODA,AlphaTauri,0
+2023,15,Singapore Grand Prix,9/17/2023,Marina Bay Singapore,Marina Bay Street Circuit,W,18,Lance STROLL,Aston Martin,0
+2023,16,Japanese Grand Prix,9/24/2023,Suzuka Japan,Suzuka Circuit,1,1,Max VERSTAPPEN,Red Bull,26
+2023,16,Japanese Grand Prix,9/24/2023,Suzuka Japan,Suzuka Circuit,2,4,Lando NORRIS,McLaren,18
+2023,16,Japanese Grand Prix,9/24/2023,Suzuka Japan,Suzuka Circuit,3,81,Oscar PIASTRI,McLaren,15
+2023,16,Japanese Grand Prix,9/24/2023,Suzuka Japan,Suzuka Circuit,4,16,Charles LECLERC,Ferrari,12
+2023,16,Japanese Grand Prix,9/24/2023,Suzuka Japan,Suzuka Circuit,5,44,Lewis HAMILTON,Mercedes,10
+2023,16,Japanese Grand Prix,9/24/2023,Suzuka Japan,Suzuka Circuit,6,55,Carlos SAINZ,Ferrari,8
+2023,16,Japanese Grand Prix,9/24/2023,Suzuka Japan,Suzuka Circuit,7,63,George RUSSELL,Mercedes,6
+2023,16,Japanese Grand Prix,9/24/2023,Suzuka Japan,Suzuka Circuit,8,14,Fernando ALONSO,Aston Martin,4
+2023,16,Japanese Grand Prix,9/24/2023,Suzuka Japan,Suzuka Circuit,9,,Ocon,Alpine F1 Team,2
+2023,16,Japanese Grand Prix,9/24/2023,Suzuka Japan,Suzuka Circuit,10,10,Pierre GASLY,Alpine F1 Team,1
+2023,16,Japanese Grand Prix,9/24/2023,Suzuka Japan,Suzuka Circuit,11,,Lawson,AlphaTauri,0
+2023,16,Japanese Grand Prix,9/24/2023,Suzuka Japan,Suzuka Circuit,12,22,Yuki TSUNODA,AlphaTauri,0
+2023,16,Japanese Grand Prix,9/24/2023,Suzuka Japan,Suzuka Circuit,13,24,ZHOU Guanyu,Alfa Romeo,0
+2023,16,Japanese Grand Prix,9/24/2023,Suzuka Japan,Suzuka Circuit,14,27,Nico HULKENBERG,Haas F1 Team,0
+2023,16,Japanese Grand Prix,9/24/2023,Suzuka Japan,Suzuka Circuit,15,20,Kevin MAGNUSSEN,Haas F1 Team,0
+2023,16,Japanese Grand Prix,9/24/2023,Suzuka Japan,Suzuka Circuit,R,23,Alexander ALBON,Williams,0
+2023,16,Japanese Grand Prix,9/24/2023,Suzuka Japan,Suzuka Circuit,R,2,Logan SARGEANT,Williams,0
+2023,16,Japanese Grand Prix,9/24/2023,Suzuka Japan,Suzuka Circuit,R,18,Lance STROLL,Aston Martin,0
+2023,16,Japanese Grand Prix,9/24/2023,Suzuka Japan,Suzuka Circuit,R,11,Sergio PEREZ,Red Bull,0
+2023,16,Japanese Grand Prix,9/24/2023,Suzuka Japan,Suzuka Circuit,R,,Bottas,Alfa Romeo,0
+2023,17,Qatar Grand Prix,10/8/2023,Al Daayen Qatar,Losail International Circuit,1,1,Max VERSTAPPEN,Red Bull,26
+2023,17,Qatar Grand Prix,10/8/2023,Al Daayen Qatar,Losail International Circuit,2,81,Oscar PIASTRI,McLaren,18
+2023,17,Qatar Grand Prix,10/8/2023,Al Daayen Qatar,Losail International Circuit,3,4,Lando NORRIS,McLaren,15
+2023,17,Qatar Grand Prix,10/8/2023,Al Daayen Qatar,Losail International Circuit,4,63,George RUSSELL,Mercedes,12
+2023,17,Qatar Grand Prix,10/8/2023,Al Daayen Qatar,Losail International Circuit,5,16,Charles LECLERC,Ferrari,10
+2023,17,Qatar Grand Prix,10/8/2023,Al Daayen Qatar,Losail International Circuit,6,14,Fernando ALONSO,Aston Martin,8
+2023,17,Qatar Grand Prix,10/8/2023,Al Daayen Qatar,Losail International Circuit,7,,Ocon,Alpine F1 Team,6
+2023,17,Qatar Grand Prix,10/8/2023,Al Daayen Qatar,Losail International Circuit,8,,Bottas,Alfa Romeo,4
+2023,17,Qatar Grand Prix,10/8/2023,Al Daayen Qatar,Losail International Circuit,9,24,ZHOU Guanyu,Alfa Romeo,2
+2023,17,Qatar Grand Prix,10/8/2023,Al Daayen Qatar,Losail International Circuit,10,11,Sergio PEREZ,Red Bull,1
+2023,17,Qatar Grand Prix,10/8/2023,Al Daayen Qatar,Losail International Circuit,11,18,Lance STROLL,Aston Martin,0
+2023,17,Qatar Grand Prix,10/8/2023,Al Daayen Qatar,Losail International Circuit,12,10,Pierre GASLY,Alpine F1 Team,0
+2023,17,Qatar Grand Prix,10/8/2023,Al Daayen Qatar,Losail International Circuit,13,23,Alexander ALBON,Williams,0
+2023,17,Qatar Grand Prix,10/8/2023,Al Daayen Qatar,Losail International Circuit,14,20,Kevin MAGNUSSEN,Haas F1 Team,0
+2023,17,Qatar Grand Prix,10/8/2023,Al Daayen Qatar,Losail International Circuit,15,22,Yuki TSUNODA,AlphaTauri,0
+2023,17,Qatar Grand Prix,10/8/2023,Al Daayen Qatar,Losail International Circuit,16,27,Nico HULKENBERG,Haas F1 Team,0
+2023,17,Qatar Grand Prix,10/8/2023,Al Daayen Qatar,Losail International Circuit,17,,Lawson,AlphaTauri,0
+2023,17,Qatar Grand Prix,10/8/2023,Al Daayen Qatar,Losail International Circuit,R,2,Logan SARGEANT,Williams,0
+2023,17,Qatar Grand Prix,10/8/2023,Al Daayen Qatar,Losail International Circuit,R,44,Lewis HAMILTON,Mercedes,0
+2023,17,Qatar Grand Prix,10/8/2023,Al Daayen Qatar,Losail International Circuit,W,55,Carlos SAINZ,Ferrari,0
+2023,18,United States Grand Prix,10/22/2023,Austin USA,Circuit of the Americas,1,1,Max VERSTAPPEN,Red Bull,25
+2023,18,United States Grand Prix,10/22/2023,Austin USA,Circuit of the Americas,2,4,Lando NORRIS,McLaren,18
+2023,18,United States Grand Prix,10/22/2023,Austin USA,Circuit of the Americas,3,55,Carlos SAINZ,Ferrari,15
+2023,18,United States Grand Prix,10/22/2023,Austin USA,Circuit of the Americas,4,11,Sergio PEREZ,Red Bull,12
+2023,18,United States Grand Prix,10/22/2023,Austin USA,Circuit of the Americas,5,63,George RUSSELL,Mercedes,10
+2023,18,United States Grand Prix,10/22/2023,Austin USA,Circuit of the Americas,6,10,Pierre GASLY,Alpine F1 Team,8
+2023,18,United States Grand Prix,10/22/2023,Austin USA,Circuit of the Americas,7,18,Lance STROLL,Aston Martin,6
+2023,18,United States Grand Prix,10/22/2023,Austin USA,Circuit of the Americas,8,22,Yuki TSUNODA,AlphaTauri,5
+2023,18,United States Grand Prix,10/22/2023,Austin USA,Circuit of the Americas,9,23,Alexander ALBON,Williams,2
+2023,18,United States Grand Prix,10/22/2023,Austin USA,Circuit of the Americas,10,2,Logan SARGEANT,Williams,1
+2023,18,United States Grand Prix,10/22/2023,Austin USA,Circuit of the Americas,11,27,Nico HULKENBERG,Haas F1 Team,0
+2023,18,United States Grand Prix,10/22/2023,Austin USA,Circuit of the Americas,12,,Bottas,Alfa Romeo,0
+2023,18,United States Grand Prix,10/22/2023,Austin USA,Circuit of the Americas,13,24,ZHOU Guanyu,Alfa Romeo,0
+2023,18,United States Grand Prix,10/22/2023,Austin USA,Circuit of the Americas,14,20,Kevin MAGNUSSEN,Haas F1 Team,0
+2023,18,United States Grand Prix,10/22/2023,Austin USA,Circuit of the Americas,15,,Ricciardo,AlphaTauri,0
+2023,18,United States Grand Prix,10/22/2023,Austin USA,Circuit of the Americas,R,14,Fernando ALONSO,Aston Martin,0
+2023,18,United States Grand Prix,10/22/2023,Austin USA,Circuit of the Americas,R,81,Oscar PIASTRI,McLaren,0
+2023,18,United States Grand Prix,10/22/2023,Austin USA,Circuit of the Americas,R,,Ocon,Alpine F1 Team,0
+2023,18,United States Grand Prix,10/22/2023,Austin USA,Circuit of the Americas,D,44,Lewis HAMILTON,Mercedes,0
+2023,18,United States Grand Prix,10/22/2023,Austin USA,Circuit of the Americas,D,16,Charles LECLERC,Ferrari,0
+2023,19,Mexico City Grand Prix,10/29/2023,Mexico City Mexico,Autódromo Hermanos Rodríguez,1,1,Max VERSTAPPEN,Red Bull,25
+2023,19,Mexico City Grand Prix,10/29/2023,Mexico City Mexico,Autódromo Hermanos Rodríguez,2,44,Lewis HAMILTON,Mercedes,19
+2023,19,Mexico City Grand Prix,10/29/2023,Mexico City Mexico,Autódromo Hermanos Rodríguez,3,16,Charles LECLERC,Ferrari,15
+2023,19,Mexico City Grand Prix,10/29/2023,Mexico City Mexico,Autódromo Hermanos Rodríguez,4,55,Carlos SAINZ,Ferrari,12
+2023,19,Mexico City Grand Prix,10/29/2023,Mexico City Mexico,Autódromo Hermanos Rodríguez,5,4,Lando NORRIS,McLaren,10
+2023,19,Mexico City Grand Prix,10/29/2023,Mexico City Mexico,Autódromo Hermanos Rodríguez,6,63,George RUSSELL,Mercedes,8
+2023,19,Mexico City Grand Prix,10/29/2023,Mexico City Mexico,Autódromo Hermanos Rodríguez,7,,Ricciardo,AlphaTauri,6
+2023,19,Mexico City Grand Prix,10/29/2023,Mexico City Mexico,Autódromo Hermanos Rodríguez,8,81,Oscar PIASTRI,McLaren,4
+2023,19,Mexico City Grand Prix,10/29/2023,Mexico City Mexico,Autódromo Hermanos Rodríguez,9,23,Alexander ALBON,Williams,2
+2023,19,Mexico City Grand Prix,10/29/2023,Mexico City Mexico,Autódromo Hermanos Rodríguez,10,,Ocon,Alpine F1 Team,1
+2023,19,Mexico City Grand Prix,10/29/2023,Mexico City Mexico,Autódromo Hermanos Rodríguez,11,10,Pierre GASLY,Alpine F1 Team,0
+2023,19,Mexico City Grand Prix,10/29/2023,Mexico City Mexico,Autódromo Hermanos Rodríguez,12,22,Yuki TSUNODA,AlphaTauri,0
+2023,19,Mexico City Grand Prix,10/29/2023,Mexico City Mexico,Autódromo Hermanos Rodríguez,13,27,Nico HULKENBERG,Haas F1 Team,0
+2023,19,Mexico City Grand Prix,10/29/2023,Mexico City Mexico,Autódromo Hermanos Rodríguez,14,24,ZHOU Guanyu,Alfa Romeo,0
+2023,19,Mexico City Grand Prix,10/29/2023,Mexico City Mexico,Autódromo Hermanos Rodríguez,15,,Bottas,Alfa Romeo,0
+2023,19,Mexico City Grand Prix,10/29/2023,Mexico City Mexico,Autódromo Hermanos Rodríguez,16,2,Logan SARGEANT,Williams,0
+2023,19,Mexico City Grand Prix,10/29/2023,Mexico City Mexico,Autódromo Hermanos Rodríguez,17,18,Lance STROLL,Aston Martin,0
+2023,19,Mexico City Grand Prix,10/29/2023,Mexico City Mexico,Autódromo Hermanos Rodríguez,R,14,Fernando ALONSO,Aston Martin,0
+2023,19,Mexico City Grand Prix,10/29/2023,Mexico City Mexico,Autódromo Hermanos Rodríguez,R,20,Kevin MAGNUSSEN,Haas F1 Team,0
+2023,19,Mexico City Grand Prix,10/29/2023,Mexico City Mexico,Autódromo Hermanos Rodríguez,R,11,Sergio PEREZ,Red Bull,0
+2023,20,São Paulo Grand Prix,11/5/2023,São Paulo Brazil,Autódromo José Carlos Pace,1,1,Max VERSTAPPEN,Red Bull,25
+2023,20,São Paulo Grand Prix,11/5/2023,São Paulo Brazil,Autódromo José Carlos Pace,2,4,Lando NORRIS,McLaren,19
+2023,20,São Paulo Grand Prix,11/5/2023,São Paulo Brazil,Autódromo José Carlos Pace,3,14,Fernando ALONSO,Aston Martin,15
+2023,20,São Paulo Grand Prix,11/5/2023,São Paulo Brazil,Autódromo José Carlos Pace,4,11,Sergio PEREZ,Red Bull,12
+2023,20,São Paulo Grand Prix,11/5/2023,São Paulo Brazil,Autódromo José Carlos Pace,5,18,Lance STROLL,Aston Martin,10
+2023,20,São Paulo Grand Prix,11/5/2023,São Paulo Brazil,Autódromo José Carlos Pace,6,55,Carlos SAINZ,Ferrari,8
+2023,20,São Paulo Grand Prix,11/5/2023,São Paulo Brazil,Autódromo José Carlos Pace,7,10,Pierre GASLY,Alpine F1 Team,6
+2023,20,São Paulo Grand Prix,11/5/2023,São Paulo Brazil,Autódromo José Carlos Pace,8,44,Lewis HAMILTON,Mercedes,4
+2023,20,São Paulo Grand Prix,11/5/2023,São Paulo Brazil,Autódromo José Carlos Pace,9,22,Yuki TSUNODA,AlphaTauri,2
+2023,20,São Paulo Grand Prix,11/5/2023,São Paulo Brazil,Autódromo José Carlos Pace,10,,Ocon,Alpine F1 Team,1
+2023,20,São Paulo Grand Prix,11/5/2023,São Paulo Brazil,Autódromo José Carlos Pace,11,2,Logan SARGEANT,Williams,0
+2023,20,São Paulo Grand Prix,11/5/2023,São Paulo Brazil,Autódromo José Carlos Pace,12,27,Nico HULKENBERG,Haas F1 Team,0
+2023,20,São Paulo Grand Prix,11/5/2023,São Paulo Brazil,Autódromo José Carlos Pace,13,,Ricciardo,AlphaTauri,0
+2023,20,São Paulo Grand Prix,11/5/2023,São Paulo Brazil,Autódromo José Carlos Pace,14,81,Oscar PIASTRI,McLaren,0
+2023,20,São Paulo Grand Prix,11/5/2023,São Paulo Brazil,Autódromo José Carlos Pace,R,63,George RUSSELL,Mercedes,0
+2023,20,São Paulo Grand Prix,11/5/2023,São Paulo Brazil,Autódromo José Carlos Pace,R,,Bottas,Alfa Romeo,0
+2023,20,São Paulo Grand Prix,11/5/2023,São Paulo Brazil,Autódromo José Carlos Pace,R,24,ZHOU Guanyu,Alfa Romeo,0
+2023,20,São Paulo Grand Prix,11/5/2023,São Paulo Brazil,Autódromo José Carlos Pace,R,20,Kevin MAGNUSSEN,Haas F1 Team,0
+2023,20,São Paulo Grand Prix,11/5/2023,São Paulo Brazil,Autódromo José Carlos Pace,R,23,Alexander ALBON,Williams,0
+2023,20,São Paulo Grand Prix,11/5/2023,São Paulo Brazil,Autódromo José Carlos Pace,W,16,Charles LECLERC,Ferrari,0
+2023,21,Las Vegas Grand Prix,11/19/2023,Las Vegas United States,Las Vegas Strip Street Circuit,1,1,Max VERSTAPPEN,Red Bull,25
+2023,21,Las Vegas Grand Prix,11/19/2023,Las Vegas United States,Las Vegas Strip Street Circuit,2,16,Charles LECLERC,Ferrari,18
+2023,21,Las Vegas Grand Prix,11/19/2023,Las Vegas United States,Las Vegas Strip Street Circuit,3,11,Sergio PEREZ,Red Bull,15
+2023,21,Las Vegas Grand Prix,11/19/2023,Las Vegas United States,Las Vegas Strip Street Circuit,4,,Ocon,Alpine F1 Team,12
+2023,21,Las Vegas Grand Prix,11/19/2023,Las Vegas United States,Las Vegas Strip Street Circuit,5,18,Lance STROLL,Aston Martin,10
+2023,21,Las Vegas Grand Prix,11/19/2023,Las Vegas United States,Las Vegas Strip Street Circuit,6,55,Carlos SAINZ,Ferrari,8
+2023,21,Las Vegas Grand Prix,11/19/2023,Las Vegas United States,Las Vegas Strip Street Circuit,7,44,Lewis HAMILTON,Mercedes,6
+2023,21,Las Vegas Grand Prix,11/19/2023,Las Vegas United States,Las Vegas Strip Street Circuit,8,63,George RUSSELL,Mercedes,4
+2023,21,Las Vegas Grand Prix,11/19/2023,Las Vegas United States,Las Vegas Strip Street Circuit,9,14,Fernando ALONSO,Aston Martin,2
+2023,21,Las Vegas Grand Prix,11/19/2023,Las Vegas United States,Las Vegas Strip Street Circuit,10,81,Oscar PIASTRI,McLaren,2
+2023,21,Las Vegas Grand Prix,11/19/2023,Las Vegas United States,Las Vegas Strip Street Circuit,11,10,Pierre GASLY,Alpine F1 Team,0
+2023,21,Las Vegas Grand Prix,11/19/2023,Las Vegas United States,Las Vegas Strip Street Circuit,12,23,Alexander ALBON,Williams,0
+2023,21,Las Vegas Grand Prix,11/19/2023,Las Vegas United States,Las Vegas Strip Street Circuit,13,20,Kevin MAGNUSSEN,Haas F1 Team,0
+2023,21,Las Vegas Grand Prix,11/19/2023,Las Vegas United States,Las Vegas Strip Street Circuit,14,,Ricciardo,AlphaTauri,0
+2023,21,Las Vegas Grand Prix,11/19/2023,Las Vegas United States,Las Vegas Strip Street Circuit,15,24,ZHOU Guanyu,Alfa Romeo,0
+2023,21,Las Vegas Grand Prix,11/19/2023,Las Vegas United States,Las Vegas Strip Street Circuit,16,2,Logan SARGEANT,Williams,0
+2023,21,Las Vegas Grand Prix,11/19/2023,Las Vegas United States,Las Vegas Strip Street Circuit,17,,Bottas,Alfa Romeo,0
+2023,21,Las Vegas Grand Prix,11/19/2023,Las Vegas United States,Las Vegas Strip Street Circuit,18,22,Yuki TSUNODA,AlphaTauri,0
+2023,21,Las Vegas Grand Prix,11/19/2023,Las Vegas United States,Las Vegas Strip Street Circuit,19,27,Nico HULKENBERG,Haas F1 Team,0
+2023,21,Las Vegas Grand Prix,11/19/2023,Las Vegas United States,Las Vegas Strip Street Circuit,R,4,Lando NORRIS,McLaren,0
+2023,22,Abu Dhabi Grand Prix,11/26/2023,Abu Dhabi UAE,Yas Marina Circuit,1,1,Max VERSTAPPEN,Red Bull,26
+2023,22,Abu Dhabi Grand Prix,11/26/2023,Abu Dhabi UAE,Yas Marina Circuit,2,16,Charles LECLERC,Ferrari,18
+2023,22,Abu Dhabi Grand Prix,11/26/2023,Abu Dhabi UAE,Yas Marina Circuit,3,63,George RUSSELL,Mercedes,15
+2023,22,Abu Dhabi Grand Prix,11/26/2023,Abu Dhabi UAE,Yas Marina Circuit,4,11,Sergio PEREZ,Red Bull,12
+2023,22,Abu Dhabi Grand Prix,11/26/2023,Abu Dhabi UAE,Yas Marina Circuit,5,4,Lando NORRIS,McLaren,10
+2023,22,Abu Dhabi Grand Prix,11/26/2023,Abu Dhabi UAE,Yas Marina Circuit,6,81,Oscar PIASTRI,McLaren,8
+2023,22,Abu Dhabi Grand Prix,11/26/2023,Abu Dhabi UAE,Yas Marina Circuit,7,14,Fernando ALONSO,Aston Martin,6
+2023,22,Abu Dhabi Grand Prix,11/26/2023,Abu Dhabi UAE,Yas Marina Circuit,8,22,Yuki TSUNODA,AlphaTauri,4
+2023,22,Abu Dhabi Grand Prix,11/26/2023,Abu Dhabi UAE,Yas Marina Circuit,9,44,Lewis HAMILTON,Mercedes,2
+2023,22,Abu Dhabi Grand Prix,11/26/2023,Abu Dhabi UAE,Yas Marina Circuit,10,18,Lance STROLL,Aston Martin,1
+2023,22,Abu Dhabi Grand Prix,11/26/2023,Abu Dhabi UAE,Yas Marina Circuit,11,,Ricciardo,AlphaTauri,0
+2023,22,Abu Dhabi Grand Prix,11/26/2023,Abu Dhabi UAE,Yas Marina Circuit,12,,Ocon,Alpine F1 Team,0
+2023,22,Abu Dhabi Grand Prix,11/26/2023,Abu Dhabi UAE,Yas Marina Circuit,13,10,Pierre GASLY,Alpine F1 Team,0
+2023,22,Abu Dhabi Grand Prix,11/26/2023,Abu Dhabi UAE,Yas Marina Circuit,14,23,Alexander ALBON,Williams,0
+2023,22,Abu Dhabi Grand Prix,11/26/2023,Abu Dhabi UAE,Yas Marina Circuit,15,27,Nico HULKENBERG,Haas F1 Team,0
+2023,22,Abu Dhabi Grand Prix,11/26/2023,Abu Dhabi UAE,Yas Marina Circuit,16,2,Logan SARGEANT,Williams,0
+2023,22,Abu Dhabi Grand Prix,11/26/2023,Abu Dhabi UAE,Yas Marina Circuit,17,24,ZHOU Guanyu,Alfa Romeo,0
+2023,22,Abu Dhabi Grand Prix,11/26/2023,Abu Dhabi UAE,Yas Marina Circuit,18,55,Carlos SAINZ,Ferrari,0
+2023,22,Abu Dhabi Grand Prix,11/26/2023,Abu Dhabi UAE,Yas Marina Circuit,19,,Bottas,Alfa Romeo,0
+2023,22,Abu Dhabi Grand Prix,11/26/2023,Abu Dhabi UAE,Yas Marina Circuit,20,20,Kevin MAGNUSSEN,Haas F1 Team,0
